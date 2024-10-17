@@ -26,8 +26,7 @@ export const Card_1_Inicio = () => {
                         
               {/* SUB Contenedor 1 */}
               <div className="card_1_banner-title">
-                    {/* " FOTOVOLTAICA FLOTANTE: INNOVACIÓN Y SOSTENIBILIDAD EN EMBALSES " */}
-                    "  INNOVACIÓN Y SOSTENIBILIDAD EN EMBALSES "
+                    " FOTOVOLTAICA FLOTANTE: INNOVACIÓN Y SOSTENIBILIDAD EN EMBALSES "
               </div>
           
         
